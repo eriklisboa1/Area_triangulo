@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp7
 {
+     //class Triangulo responsavel por fazer o calculo o mesmo e retorna
      class Triangulo
     {
         public double A;
